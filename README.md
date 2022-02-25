@@ -19,7 +19,6 @@
 ---
 
 <h3 align="center">🛠️&nbsp;&nbsp;Experienced with</h3>
-<br>
 <p align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/TypeScript-2c7ac8?style=for-the-badge&logo=TypeScript&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp;
@@ -38,7 +37,6 @@
 ---
 
 <h3 align="center">🔎&nbsp;&nbsp;Find me</h3>
-<br>
 <p align="center">
   <a href="mailto:kafiluddin.kiron@gmail.com?subject=Hello%20Kafil"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.facebook.com/kafiluddin.kiron"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
