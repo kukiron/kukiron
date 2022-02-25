@@ -8,8 +8,6 @@
 &nbsp;&nbsp;&nbsp;:zap: &nbsp;Studied textile engineering & business (MBA)\
 &nbsp;&nbsp;&nbsp;:house: &nbsp;Living in Dhaka, Bangladesh
 
-<br>
-
 ---
 
 <p align="center">
