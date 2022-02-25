@@ -2,7 +2,7 @@
 
 ### :space_invader: &nbsp;About Me
 
-&nbsp;&nbsp;&nbsp;:technologist: &nbsp;Currently working as Senior Software Engineer at [Greywing](https://grey-wing.com/)\
+&nbsp;&nbsp;&nbsp;:technologist: &nbsp;Working as Senior Software Engineer at [Greywing](https://grey-wing.com/)\
 &nbsp;&nbsp;&nbsp;:rocket: &nbsp;Passionate about technology & soccer\
 &nbsp;&nbsp;&nbsp;:runner: &nbsp;Trying to keep up with all things JavaScript\
 &nbsp;&nbsp;&nbsp;:zap: &nbsp;Studied textile engineering & business (MBA)\
