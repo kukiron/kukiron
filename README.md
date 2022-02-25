@@ -21,7 +21,7 @@
 <h3 align="center">🛠️&nbsp;&nbsp;Experienced with</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/TypeScript-2c7ac8?style=for-the-badge&logo=TypeScript&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/react-7dd7f8?style=for-the-badge&logo=react&logoColor=black" />&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp;
