@@ -3,10 +3,11 @@
 ### :space_invader: &nbsp;About Me
 
 &nbsp;&nbsp;&nbsp;:computer: &nbsp;Working as Senior Software Engineer at [Greywing](https://grey-wing.com/)\
-&nbsp;&nbsp;&nbsp;:rocket: &nbsp;Passionate about technology & soccer\
-&nbsp;&nbsp;&nbsp;:runner: &nbsp;Trying to keep up with all things JavaScript\
+&nbsp;&nbsp;&nbsp;:heartbeat: &nbsp;Passionate about problem solving\
+&nbsp;&nbsp;&nbsp;:headphones: &nbsp;Interested in technology & sports\
+&nbsp;&nbsp;&nbsp;:rocket: &nbsp;Trying to keep up with all things JavaScript\
 &nbsp;&nbsp;&nbsp;:zap: &nbsp;Studied textile engineering & business (MBA)\
-&nbsp;&nbsp;&nbsp;:house: &nbsp;Living in Dhaka, Bangladesh
+&nbsp;&nbsp;&nbsp;:house: &nbsp;Hailing from Dhaka, Bangladesh
 
 ---
 
