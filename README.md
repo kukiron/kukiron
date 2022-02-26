@@ -12,9 +12,9 @@
 ---
 
 <p align="center">
-  <img width="auto" src ="https://github-readme-stats.vercel.app/api?username=kukiron&show_icons=true&count_private=true&theme=cobalt&hide_border=true&hide=issues,contribs&bg_color=00000000">
-  <img width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=kukiron&layout=compact&hide_border=true&theme=cobalt&bg_color=00000000&langs_count=6">
-  <img width="auto" src ="https://github-readme-streak-stats.herokuapp.com?user=kukiron&theme=cobalt&hide_border=true&background=FFFFFF00">
+  <img width="auto" src ="https://github-readme-stats.vercel.app/api?username=kukiron&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&hide=issues,contribs&bg_color=00000000">
+  <img width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=kukiron&layout=compact&hide_border=true&theme=tokyonight&bg_color=00000000&langs_count=6">
+  <img width="auto" src ="https://github-readme-streak-stats.herokuapp.com?user=kukiron&theme=tokyonight&hide_border=true&background=FFFFFF00">
 </p>
 
 ---
