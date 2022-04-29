@@ -17,6 +17,14 @@
   <img width="auto" src ="https://github-readme-streak-stats.herokuapp.com?user=kukiron&theme=nightowl&hide_border=true&background=FFFFFF00">
 </p>
 
+---  
+
+<!-- <img width="1091" alt="Coding activity over last 7 days" src="https://wakatime.com/share/@kukiron/31998caa-b6bd-463e-b81d-b29ad85460a1.png">
+
+--- -->
+
+<img width="1091" alt="Languages over last 7 days" src="https://wakatime.com/share/@kukiron/6a3a92fb-c509-4ea6-9913-73705596b2ac.png">
+
 ---
 
 <h3 align="center">🛠️&nbsp;&nbsp;Experienced with</h3>
