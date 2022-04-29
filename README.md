@@ -19,11 +19,11 @@
 
 ---  
 
-<!-- <img width="1091" alt="Coding activity over last 7 days" src="https://wakatime.com/share/@kukiron/31998caa-b6bd-463e-b81d-b29ad85460a1.png">
+<img width="1091" alt="Coding activity over last 30 days" src="https://wakatime.com/share/@kukiron/a3bf4eec-e64e-4860-b471-32e740bc433b.png">
 
---- -->
+---
 
-<img width="1091" alt="Languages over last 7 days" src="https://wakatime.com/share/@kukiron/6a3a92fb-c509-4ea6-9913-73705596b2ac.png">
+<img width="1091" alt="Languages over last 30 days" src="https://wakatime.com/share/@kukiron/1d5308be-778b-4f08-912b-659b9a90f78c.png">
 
 ---
 
