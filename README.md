@@ -19,13 +19,13 @@
 
 ---  
 
-<img width="1091" alt="Coding activity over last 30 days" src="https://wakatime.com/share/@kukiron/a3bf4eec-e64e-4860-b471-32e740bc433b.png">
+<!-- <img width="1091" alt="Coding activity over last 30 days" src="https://wakatime.com/share/@kukiron/a3bf4eec-e64e-4860-b471-32e740bc433b.png">
 
 ---
 
 <img width="1091" alt="Languages over last 30 days" src="https://wakatime.com/share/@kukiron/1d5308be-778b-4f08-912b-659b9a90f78c.png">
 
----
+--- -->
 
 <h3 align="center">🛠️&nbsp;&nbsp;Experienced with</h3>
 <p align="center">
