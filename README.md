@@ -4,9 +4,9 @@
 
 &nbsp;&nbsp;&nbsp;:computer: &nbsp;Working as Senior Software Engineer at [Greywing](https://grey-wing.com/)\
 &nbsp;&nbsp;&nbsp;:heartbeat: &nbsp;Passionate about problem solving\
-&nbsp;&nbsp;&nbsp;:headphones: &nbsp;Interested in technology & sports\
+&nbsp;&nbsp;&nbsp;:zap: &nbsp;Interested in technology & sports\
 &nbsp;&nbsp;&nbsp;:rocket: &nbsp;Trying to keep up with all things JavaScript\
-&nbsp;&nbsp;&nbsp;:zap: &nbsp;Studied textile engineering & business (MBA)\
+&nbsp;&nbsp;&nbsp;:books: &nbsp;Studied textile engineering & business (MBA)\
 &nbsp;&nbsp;&nbsp;:house: &nbsp;Hailing from Dhaka, Bangladesh
 
 ---
