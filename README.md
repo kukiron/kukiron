@@ -10,7 +10,7 @@
 &nbsp;&nbsp;&nbsp;:house: &nbsp;Hailing from Dhaka, Bangladesh
 
 ---
-
+<h3 align="center">🎯&nbsp;&nbsp;Activities</h3>
 <p align="center">
 <!--   <img width="auto" src ="https://github-readme-stats.vercel.app/api?username=kukiron&show_icons=true&count_private=true&theme=nightowl&hide_border=true&hide=issues,contribs&bg_color=00000000"> -->
 <!--   <img width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=kukiron&layout=compact&hide_border=true&theme=nightowl&bg_color=00000000&langs_count=6"> -->
