@@ -12,12 +12,12 @@
 ---
 
 <p align="center">
-  <img width="auto" src ="https://github-readme-stats.vercel.app/api?username=kukiron&show_icons=true&count_private=true&theme=nightowl&hide_border=true&hide=issues,contribs&bg_color=00000000">
-  <img width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=kukiron&layout=compact&hide_border=true&theme=nightowl&bg_color=00000000&langs_count=6">
+<!--   <img width="auto" src ="https://github-readme-stats.vercel.app/api?username=kukiron&show_icons=true&count_private=true&theme=nightowl&hide_border=true&hide=issues,contribs&bg_color=00000000"> -->
+<!--   <img width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=kukiron&layout=compact&hide_border=true&theme=nightowl&bg_color=00000000&langs_count=6"> -->
   <img width="auto" src ="https://github-readme-streak-stats.herokuapp.com?user=kukiron&theme=nightowl&hide_border=true&background=FFFFFF00">
 </p>
 
----  
+<!-- ---   -->
 
 <!-- <img width="1091" alt="Coding activity over last 30 days" src="https://wakatime.com/share/@kukiron/a3bf4eec-e64e-4860-b471-32e740bc433b.png">
 
@@ -27,7 +27,7 @@
 
 --- -->
 
-<h3 align="center">🛠️&nbsp;&nbsp;Experienced with</h3>
+<!-- <h3 align="center">🛠️&nbsp;&nbsp;Experienced with</h3>
 <p align="center">
   <table border="0" align="center">
    <tr>
@@ -70,7 +70,7 @@
        <img align="center" src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" />
      </td>
    </tr>
-  </table>
+  </table> -->
 
 ---
 
