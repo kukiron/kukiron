@@ -14,7 +14,7 @@
 <p align="center">
 <!--   <img width="auto" src ="https://github-readme-stats.vercel.app/api?username=kukiron&show_icons=true&count_private=true&theme=nightowl&hide_border=true&hide=issues,contribs&bg_color=00000000"> -->
 <!--   <img width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=kukiron&layout=compact&hide_border=true&theme=nightowl&bg_color=00000000&langs_count=6"> -->
-  <img width="auto" src ="https://github-readme-streak-stats.herokuapp.com?user=kukiron&theme=solarized-light&hide_border=true&background=FFFFFF00">
+  <img width="auto" src ="https://streak-stats.demolab.com?user=kukiron&theme=Javascript&currStreakNum=4ECDC4&sideNums=4ECDC4&ring=FFA500&fire=FF6B6B&background=FFFFFF00&stroke=4CAF50&currStreakLabel=869BF5&sideLabels=869BF5&dates=F4CE2F">
 </p>
 
 <!-- ---   -->
