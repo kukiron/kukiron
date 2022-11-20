@@ -6,7 +6,7 @@
 &nbsp;&nbsp;&nbsp;:heartbeat: &nbsp;Passionate about problem solving\
 &nbsp;&nbsp;&nbsp;:zap: &nbsp;Interested in technology & sports\
 &nbsp;&nbsp;&nbsp;:rocket: &nbsp;Trying to keep up with all things JavaScript\
-&nbsp;&nbsp;&nbsp;:books: &nbsp;Studied textile engineering & business (MBA)\
+&nbsp;&nbsp;&nbsp;:books: &nbsp;Studied business (MBA) & textile engineering (B.Sc)\
 &nbsp;&nbsp;&nbsp;:house: &nbsp;Hailing from Dhaka, Bangladesh
 
 ---
