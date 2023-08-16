@@ -3,11 +3,11 @@
 ### :space_invader: &nbsp;About Me
 
 &nbsp;&nbsp;&nbsp;:computer: &nbsp;Working as Senior Software Engineer at [Greywing](https://grey-wing.com/)\
-&nbsp;&nbsp;&nbsp;:heartbeat: &nbsp;Passionate about problem solving\
-&nbsp;&nbsp;&nbsp;:zap: &nbsp;Interested in technology & sports\
 &nbsp;&nbsp;&nbsp;:rocket: &nbsp;Trying to keep up with all things JavaScript\
 &nbsp;&nbsp;&nbsp;:books: &nbsp;Studied business (MBA) & textile engineering (B.Sc)\
 &nbsp;&nbsp;&nbsp;:house: &nbsp;Hailing from Dhaka, Bangladesh
+<!-- &nbsp;&nbsp;&nbsp;:heartbeat: &nbsp;Passionate about problem solving\ -->
+<!-- &nbsp;&nbsp;&nbsp;:zap: &nbsp;Interested in technology & sports\ -->
 
 ---
 <h3 align="center">🎯&nbsp;&nbsp;Activities</h3>
@@ -72,8 +72,7 @@
    </tr>
   </table> -->
 
----
-
+<!--
 <h3 align="center">🔎&nbsp;&nbsp;Find me</h3>
 <p align="center">
   <a href="mailto:kafiluddin.kiron@gmail.com?subject=Hello%20Kafil"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;
@@ -81,3 +80,5 @@
   <a href="https://www.twitter.com/kkiron/"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/kukiron/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;
 </p>
+---
+-->
