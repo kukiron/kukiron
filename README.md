@@ -10,34 +10,10 @@ role.
 
 ## Recent Work
 
-### Ittihad Engineering
+### Ittihad Engineering Website Redesign
 
-A complete redesign and production release of a content-driven Next.js website
-for an industrial engineering consultancy.
-
-Highlights include:
-
-- Complete frontend redesign and implementation
-- Reusable component architecture
-- Build-time image metadata pipeline for S3-hosted assets
-- Shared design system and styling conventions
-- Performance-focused image loading strategy
-- Production release workflow and engineering documentation
-
-#### Tech Stack
-
-- React
-- Next.js
-- TypeScript
-- CSS Modules
-- Tailwind CSS
-- Sharp
-- AWS S3
-
-Live site: [ittihad.engineering](https://ittihad.engineering)
-
-<!-- Engineering case study:
-[Ittihad Engineering Website Redesign and Production Release](./portfolio-case-study.md) -->
+Read the engineering case study:
+[Ittihad Engineering Website Redesign and Production Release](https://github.com/kukiron/engineering-case-studies)
 
 ## Previous Experience
 
@@ -68,7 +44,6 @@ Primary technologies include:
 
 ## Find Me
 
-- LinkedIn
-- Resume
-- Email
-
+- LinkedIn: [linkedin.com/in/kukiron](https://www.linkedin.com/in/kukiron/)
+- Resume: [Download PDF](https://drive.google.com/file/d/1sAwds1OswTZWFTzGJEC3b4ycisETukwu/view?usp=drive_link)
+- Email: [kafiluddin.kiron@gmail.com](mailto:kafiluddin.kiron@gmail.com)
