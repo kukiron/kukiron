@@ -35,11 +35,8 @@ Primary technologies include:
 ## Current Focus
 
 - Building production-quality frontend applications with React and Next.js
-
 - Modern frontend architecture and component systems
-
 - Performance and maintainability
-
 - Preparing a CRM platform for small engineering businesses
 
 ## Find Me
