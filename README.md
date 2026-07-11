@@ -3,10 +3,7 @@
 Senior Frontend Engineer focused on building maintainable React and TypeScript
 applications.
 
-Over the past several months, I've been working on a complete redesign and
-production release of the public website for Ittihad Engineering, while
-rebuilding my development routine and preparing for my next senior engineering
-role.
+I enjoy evolving production software through thoughtful frontend architecture, maintainable engineering practices, and deliberate technical decision-making that elevates the user experience. Most recently, I led the redesign and production release of the Ittihad Engineering website, documenting the engineering decisions behind the project through a public case study.
 
 ## Recent Work
 
@@ -34,10 +31,10 @@ Primary technologies include:
 
 ## Current Focus
 
-- Building production-quality frontend applications with React and Next.js
-- Modern frontend architecture and component systems
-- Performance and maintainability
-- Preparing a CRM platform for small engineering businesses
+- Building production-quality frontend applications with React, Next.js, and TypeScript
+- Frontend architecture, reusable component systems, and maintainable UI engineering
+- Planning a CRM platform for small engineering businesses
+- Documenting engineering decisions through public case studies
 
 ## Find Me
 
