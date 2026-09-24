@@ -1,22 +1,35 @@
 # Kafil Uddin
 
-Senior Frontend Engineer focused on building maintainable React and TypeScript
-applications.
+Senior Frontend Engineer with 7+ years of experience building React and
+TypeScript products for distributed international teams.
 
-I enjoy evolving production software through thoughtful frontend architecture,
-maintainable engineering practices, and deliberate technical decision-making
-that elevates the user experience. Most recently, I led the redesign and
-production release of the Ittihad Engineering website, documenting the
-engineering decisions behind the project through a public case study.
+I focus on complex frontend workflows, maintainable architecture, performance,
+and production software that has to evolve. My recent work includes
+B2B workflow prototypes, production web applications, and documenting selected
+engineering projects through public case studies.
 
-## Recent Work
+## Selected Work
 
-### Ittihad Engineering Website Redesign
+### Engineering Case Studies
 
-View the engineering case study:
-[Ittihad Engineering Website Redesign and Production Release][case-study]
+- [Greywing — Building a dependable crew-change planning workflow][greywing-case-study]  
+  Frontend architecture for data-heavy maritime planning workflows, including
+  progressive flight search, partial-result handling, state management,
+  end-to-end testing, and concurrent editing.
 
-## Previous Experience
+- [Ittihad Engineering — From redesign to production][ittihad-case-study]  
+  A production Next.js redesign covering frontend maintainability, image
+  handling, styling conventions, and release engineering.
+
+[View all engineering case studies][case-studies]
+
+### B2B Product Prototypes
+
+Currently designing and building workflow software prototypes for B2B teams,
+taking ideas from requirements and workflow modelling through working
+implementations.
+
+## Experience
 
 Previously worked remotely with distributed teams across Singapore, the United
 States, and Italy, building SaaS products in logistics, workforce management,
@@ -28,11 +41,9 @@ React, TypeScript, Next.js, Redux, Node.js, GraphQL, React Native, Playwright.
 
 ## Current Focus
 
-- Building production-quality frontend applications with React, Next.js, and
-  TypeScript
-- Frontend architecture, reusable component systems, and maintainable UI
-  engineering
-- Planning a CRM platform for small engineering businesses
+- Building production-quality applications with React, Next.js, and TypeScript
+- Frontend architecture for complex and data-heavy product workflows
+- Prototyping workflow software for B2B products
 - Documenting engineering decisions through public case studies
 
 ## Find Me
@@ -41,5 +52,7 @@ React, TypeScript, Next.js, Redux, Node.js, GraphQL, React Native, Playwright.
 - [Resume][resume]
 - [Email](mailto:kafiluddin.kiron@gmail.com)
 
-[case-study]: https://github.com/kukiron/engineering-case-studies
-[resume]: https://drive.google.com/file/d/1sAwds1OswTZWFTzGJEC3b4ycisETukwu/view
+[case-studies]: https://github.com/kukiron/engineering-case-studies
+[greywing-case-study]: https://github.com/kukiron/engineering-case-studies/tree/main/case-studies/greywing
+[ittihad-case-study]: https://github.com/kukiron/engineering-case-studies/tree/main/case-studies/ittihad-engineering
+[resume]: https://drive.google.com/file/d/1dHR4G8plyIyTErqTCcWwsxZ3uDB-QkCC/view
